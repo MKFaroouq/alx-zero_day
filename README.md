@@ -1,1 +1,1 @@
-My first readme
+first readme in git dir
